@@ -111,9 +111,9 @@ void UKF::ProcessMeasurement(MeasurementPackage meas_package) {
     // Initialize the covariance matrix
     P_(0,0) = 1.;
     P_(1,1) = 1.;
-    P_(2,2) = 6.;
-    P_(3,3) = 3.;
-    P_(4,4) = 6.;
+    P_(2,2) = 1.;
+    P_(3,3) = 1.;
+    P_(4,4) = 1.;
 
     time_us_ = meas_package.timestamp_;
 
