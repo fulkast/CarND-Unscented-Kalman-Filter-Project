@@ -4,10 +4,12 @@ Self-Driving Car Engineer Nanodegree Program
 # Normalized Innovation Squared
 
 The image below shows the NIS for the lidar meaurements
+
 ![alt text](lidar_nis.png)
 
 
-The image below shows the NIS for the radar meaurements 
+The image below shows the NIS for the radar meaurements
+
 ![alt text](lidar_nis.png)
 
 
