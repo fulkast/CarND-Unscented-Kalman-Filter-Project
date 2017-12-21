@@ -10,7 +10,7 @@ The image below shows the NIS for the lidar meaurements
 
 The image below shows the NIS for the radar meaurements
 
-![alt text](lidar_nis.png)
+![alt text](radar_nis.png)
 
 
 In this project utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project rubric.
